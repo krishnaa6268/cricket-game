@@ -32,7 +32,10 @@ h1 {
 }
 
 .foot{
-  margin-top: 50%;
-  padding: 3px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 5px;
   background-color: DarkSalmon;
 }
